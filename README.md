@@ -6,7 +6,7 @@ Uses yandex translate API.
 
 Use:
 
-1. Put link to .py file into folder in PATH. For example:
+1. Put link to .py file into folder in PATH. For example (if ~/bin in your PATH):
    `ln -s translate.py ~/bin/t`
 
 2. Use translator, for exapmle: 
